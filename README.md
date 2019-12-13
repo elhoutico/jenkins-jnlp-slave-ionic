@@ -1,0 +1,3 @@
+####!!! This Dockerfile automatically accepts the android conditions of use...
+
+#This container is to be used with jenkins to build ionic apps for android
